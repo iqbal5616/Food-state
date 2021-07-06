@@ -41,6 +41,26 @@ h1{
     background-repeat: no-repeat;
     background-size: cover;
 }
-#img2{
-position: buttom;
+.h1-3rd-sec{
+    text-align: center;
 }
+.p-3rd-sec{
+   text-align: center;
+}
+.box-section{
+    display: flex;
+    padding: 5%;
+    
+}
+.box-section img{
+    width: 100%;
+}
+.box{
+    box-shadow: 5px 5px 20px gray;
+    width: 100%;
+    margin-right:2%;
+    margin-left: 2%;
+    padding-left: 10px;
+    padding-right:10px;
+    padding-top: 10px;
+    border-radius: 20px;
