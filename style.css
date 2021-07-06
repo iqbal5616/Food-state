@@ -30,3 +30,17 @@ h1{
     color: white;
     font-weight: 700;
 }
+#about-me{ 
+    margin-top: 100px;
+}
+#p-margin{
+    margin-bottom: 100px;
+}
+#back-img{
+    background-image: url(food-state/images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#img2{
+position: buttom;
+}
